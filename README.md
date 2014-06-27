@@ -3,7 +3,7 @@ Reeveal Comments for Expression Engine
 
 The Reeveal Comments extension adds a “Comments” tab to the entry editing page.  Clicking on the tab reeveals the comments associated with the entry in an intuitive, useful interface.  Want to close a comment?  Piece of cake.  Want to edit a comment?  No problem.  Managing comments has never been easier!
 
-http://www.hopstudios.com/buzzmarketingwithblogs/images/uploads/reeveal_comments_screenshot.jpg
+![alt tag](http://www.hopstudios.com/buzzmarketingwithblogs/images/uploads/reeveal_comments_screenshot.jpg)
 
 Use
 ===
